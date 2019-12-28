@@ -1,6 +1,6 @@
 public class Area {
 
-        int xPosition;
+        int xPosition;//x
         int yPosition;
         public Area(int xPosition,int yPosition){
             this.xPosition=xPosition;
